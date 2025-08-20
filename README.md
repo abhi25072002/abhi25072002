@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **• Research in Systems for Machine Learning and Multimodal LLMs at Georgia Tech • Building full-stack apps and cloud-native pipelines for data processing**
 
-- 🌱 I’m currently learning **• Advanced Machine Learning & Deep Learning (ML@GT specialization) • Cloud computing & distributed systems (Kubernetes, Spark, Ray) • Math for ML (probability, optimization, linear algebra in depth)**
+- 🌱 I’m currently learning **• Advanced Machine Learning & Deep Learning (ML@GT specialization) • Cloud computing & distributed systems • Math for ML (probability, optimization, linear algebra in depth)**
 
 - 💬 Ask me about **•Machine learning / deep learning • Full-stack engineering (MERN, LAMP, MEAN, Django • ETL pipelines & large-scale data processing**
 
