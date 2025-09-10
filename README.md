@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Dharmadhikari</h1>
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5635AQH7tUCl0T1Kvg/profile-framedphoto-shrink_400_400/B56Zi6nC.4HMAc-/0/1755477455474?e=1756317600&v=beta&t=pNOTP2yzJDzRqTT3lEkMxYN7v5dMRKn7WnYdY9U2tAU" alt="Abhishek Dharmadhikari" width="200"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi25072002" alt="abhi25072002" /></a> </p>
 
