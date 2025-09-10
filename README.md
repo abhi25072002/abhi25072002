@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi25072002" alt="abhi25072002" /></a> </p>
 
-- 🔭 I’m currently working on **• Research in Systems for Machine Learning and Multimodal LLMs at Georgia Tech • Building full-stack apps and cloud-native pipelines for data processing**
 
 - 🌱 I’m currently learning **• Advanced Machine Learning & Deep Learning (ML@GT specialization) • Cloud computing & distributed systems • Math for ML (probability, optimization, linear algebra in depth)**
 
