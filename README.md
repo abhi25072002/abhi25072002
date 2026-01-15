@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi25072002" alt="abhi25072002" /></a> </p>
 
 
-- 🌱 I’m currently learning **• Machine Learning & Deep Learning (ML@GT specialization) • Cloud Computing & Distributed systems • Mathematics for ML (probability, optimization, linear algebra in depth)**
+- 🌱 I’m currently learning **• Machine Learning & Deep Learning • Cloud Computing & Distributed systems • Mathematics for ML (probability, optimization, linear algebra in depth)**
 
 - 💬 Ask me about **•Machine learning / deep learning • Full-stack engineering (MERN, LAMP, MEAN, Django framework) • ETL pipelines & large-scale data processing**
 
