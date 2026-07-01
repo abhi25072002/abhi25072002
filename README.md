@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-🎯 <b>Open to New Grad 2027 SWE / ML / Data Engineering roles</b> — if my work looks like a fit, <a href="https://linkedin.com/in/abhishek-dharmadhikari/">let's connect!</a>
+🎯 <b>Open to New Grad 2027 SWE / ML / Data Engineering roles.</b> If my work looks like a fit, <a href="https://linkedin.com/in/abhishek-dharmadhikari/">let's connect!</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ### About Me
 
-I'm a Computer Science grad student at Georgia Tech who loves building things where **data, machine learning, and solid engineering** meet. Right now I work on the data platforms behind Mailchimp at Intuit, and outside of that I spend most of my time tinkering with **agentic AI and GenAI** — trying to turn LLMs into systems that actually do useful work. I've shipped everything from full-stack finance apps to large-scale ETL pipelines and research-grade LLM benchmarks, and I care a lot about writing code that's clean, reliable, and built to scale.
+I'm a Computer Science grad student at Georgia Tech who loves building things where **data, machine learning, and solid engineering** meet. Right now I work on the data platforms behind Mailchimp at Intuit, and outside of that I spend most of my time tinkering with **agentic AI and GenAI**, trying to turn LLMs into systems that actually do useful work. I've shipped everything from full-stack finance apps to large-scale ETL pipelines and research-grade LLM benchmarks, and I care a lot about writing code that's clean, reliable, and built to scale.
 
 - 💻 Currently at **Intuit** on the **Mailchimp core data products** team, building large-scale data platforms with **Airflow, Cloud Composer, BigQuery, Dataform, PySpark, Docker & Kubernetes**
 - 🤖 Exploring **Agentic AI**: building agentic applications with **LangChain & LangGraph**, RAG pipelines, and GenAI-powered ML/NLP systems
