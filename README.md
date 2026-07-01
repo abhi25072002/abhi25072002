@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dharmadhikari</h1>
-<h3 align="center">MS CS @ Georgia Tech · ex-SWE @ Wells Fargo · ML Research @ MIDAS Lab, IIIT Delhi</h3>
+<h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · ex-SWE @ Wells Fargo · ML Research @ MIDAS Lab, IIIT Delhi</h3>
 
 <p align="center">
-🔭 Seeking <b>Summer 2026 Software Engineering internships</b>&nbsp;&nbsp;|&nbsp;&nbsp;
-🌱 Focused on ML/DL, multimodal LLMs, and distributed systems
+🔭 Building data products at <b>Intuit</b>&nbsp;&nbsp;|&nbsp;&nbsp;
+🌱 Exploring <b>Agentic AI</b> — LangChain, LangGraph, RAG & GenAI for ML/NLP
 </p>
 
 <p align="center">
@@ -15,13 +15,14 @@
 
 ### About Me
 
+- 💻 Currently at **Intuit**, on the **Mailchimp core data products** team — building large-scale data platforms with **Airflow, Cloud Composer, BigQuery, Dataform, PySpark, Docker & Kubernetes**
+- 🤖 Exploring **Agentic AI** — building agentic applications with **LangChain & LangGraph**, RAG pipelines, and GenAI-powered ML/NLP systems
 - 🎓 Pursuing an **MS in Computer Science** at **Georgia Tech**, specializing in Machine Learning
 - 🏅 Graduated **Rank 1** from College of Engineering Pune (COEP), B.E. Computer Engineering (Honors in Data Science), CGPA 9.81/10 — Department & Institute Gold Medalist
-- 💼 Previously **Software Engineer at Wells Fargo**, building and maintaining the Independent Price Verification platform
+- 💼 Previously **Software Engineer at Wells Fargo**, building financial systems spanning trading-portfolio and corporate-treasury allocation
 - 🔬 **Research Intern at MIDAS Lab, IIIT Delhi** — built Indian-context benchmark datasets and evaluated reasoning capabilities of open-source LLMs
 - 🏢 Summer Intern at **Citi**, supporting migration of an internal process-automation tool UI
-- 💬 Ask me about: Machine Learning / Deep Learning, full-stack engineering (MERN, LAMP, MEAN, Django), ETL pipelines & large-scale data processing
-- ⚡ Fun fact: I don't drink tea, coffee, or soda — water is my only fuel 💧
+- 💬 Ask me about: Agentic AI & GenAI, Machine Learning / Deep Learning, large-scale data engineering (ETL & pipelines), and full-stack engineering (MERN, LAMP, MEAN, Django)
 
 ---
 
