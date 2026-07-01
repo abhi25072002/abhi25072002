@@ -2,14 +2,19 @@
 <h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · ex-SWE @ Wells Fargo · ML Research @ MIDAS Lab, IIIT Delhi</h3>
 
 <p align="center">
-💻 Engineering <b>Mailchimp's core data products</b> @ Intuit&nbsp;&nbsp;|&nbsp;&nbsp;
-🔭 Seeking <b>New Grad 2027 full-time opportunities</b>&nbsp;&nbsp;|&nbsp;&nbsp;
-🌱 Exploring <b>Agentic AI</b> — LangChain, LangGraph, RAG & GenAI
+<a href="https://abhi25072002.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/abhishek-dharmadhikari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ajd6@gatech.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=iyv1BAEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<a href="https://abhi25072002.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-abhi25072002.github.io-informational?style=flat&logo=googlechrome&logoColor=white&color=2bbc8a" /></a>
-<a href="mailto:ajd6@gatech.edu"><img src="https://img.shields.io/badge/Email-ajd6%40gatech.edu-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/🚀_Open_to-New_Grad_2027-2bbc8a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼_Currently-@_Intuit-0077C5?style=for-the-badge" />
+</p>
+
+<p align="center">
+💻 Working on <b>Intuit's core data products</b> (Mailchimp) &nbsp;•&nbsp; 🌱 Exploring <b>Agentic AI</b> — LangChain, LangGraph, RAG & GenAI
 </p>
 
 ---
