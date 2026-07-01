@@ -2,8 +2,9 @@
 <h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · ex-SWE @ Wells Fargo · ML Research @ MIDAS Lab, IIIT Delhi</h3>
 
 <p align="center">
-🔭 Building data products at <b>Intuit</b>&nbsp;&nbsp;|&nbsp;&nbsp;
-🌱 Exploring <b>Agentic AI</b> — LangChain, LangGraph, RAG & GenAI for ML/NLP
+💻 Engineering <b>Mailchimp's core data products</b> @ Intuit&nbsp;&nbsp;|&nbsp;&nbsp;
+🔭 Seeking <b>New Grad 2027 full-time opportunities</b>&nbsp;&nbsp;|&nbsp;&nbsp;
+🌱 Exploring <b>Agentic AI</b> — LangChain, LangGraph, RAG & GenAI
 </p>
 
 <p align="center">
@@ -31,6 +32,8 @@
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **ML / Data:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Data & AI:** ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Cloud Composer](https://img.shields.io/badge/-Cloud%20Composer-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![Dataform](https://img.shields.io/badge/-Dataform-00A2FF?style=flat-square&logo=google&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 
 **Web / Backend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
