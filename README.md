@@ -17,11 +17,6 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🚀_Open_to-New_Grad_2027-2bbc8a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Currently-@_Intuit-0077C5?style=for-the-badge" />
-</p>
-
-<p align="center">
 💻 Working on <b>Intuit's core data products</b> (Mailchimp) &nbsp;•&nbsp; 🌱 Exploring <b>Agentic AI</b>: LangChain, LangGraph, RAG & GenAI
 </p>
 
@@ -71,11 +66,9 @@ I'm a Computer Science grad student at Georgia Tech who loves building things wh
 
 ---
 
-### Connect with me
+### Coding & Socials
 
 <p align="center">
-<a href="https://linkedin.com/in/abhishek-dharmadhikari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=iyv1BAEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="https://www.leetcode.com/abhishek_jd25" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.hackerrank.com/abhishekdharmad1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://instagram.com/abhishek_250702" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
