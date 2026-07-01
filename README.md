@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dharmadhikari</h1>
-<h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · previously Wells Fargo & Citi</h3>
+<h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · prev · Wells Fargo, Citi</h3>
 
 <p align="center">
 <a href="https://abhi25072002.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -14,19 +14,19 @@
 </p>
 
 <p align="center">
-💻 Working on <b>Intuit's core data products</b> (Mailchimp) &nbsp;•&nbsp; 🌱 Exploring <b>Agentic AI</b> — LangChain, LangGraph, RAG & GenAI
+💻 Working on <b>Intuit's core data products</b> (Mailchimp) &nbsp;•&nbsp; 🌱 Exploring <b>Agentic AI</b>: LangChain, LangGraph, RAG & GenAI
 </p>
 
 ---
 
 ### About Me
 
-- 💻 Currently at **Intuit**, on the **Mailchimp core data products** team — building large-scale data platforms with **Airflow, Cloud Composer, BigQuery, Dataform, PySpark, Docker & Kubernetes**
-- 🤖 Exploring **Agentic AI** — building agentic applications with **LangChain & LangGraph**, RAG pipelines, and GenAI-powered ML/NLP systems
+- 💻 Currently at **Intuit** on the **Mailchimp core data products** team, building large-scale data platforms with **Airflow, Cloud Composer, BigQuery, Dataform, PySpark, Docker & Kubernetes**
+- 🤖 Exploring **Agentic AI**: building agentic applications with **LangChain & LangGraph**, RAG pipelines, and GenAI-powered ML/NLP systems
 - 🎓 Pursuing an **MS in Computer Science** at **Georgia Tech**, specializing in Machine Learning
-- 🏅 Graduated **Rank 1** from College of Engineering Pune (COEP), B.E. Computer Engineering (Honors in Data Science), CGPA 9.81/10 — Department & Institute Gold Medalist
+- 🏅 Graduated **Rank 1** from College of Engineering Pune (COEP), B.E. Computer Engineering (Honors in Data Science), CGPA 9.81/10, Department & Institute Gold Medalist
 - 💼 Previously **Software Engineer at Wells Fargo**, building financial systems spanning trading-portfolio and corporate-treasury allocation
-- 🔬 **Research Intern at MIDAS Lab, IIIT Delhi** — built Indian-context benchmark datasets and evaluated reasoning capabilities of open-source LLMs
+- 🔬 **Research Intern at MIDAS Lab, IIIT Delhi**, built Indian-context benchmark datasets and evaluated reasoning capabilities of open-source LLMs
 - 🏢 Summer Intern at **Citi**, supporting migration of an internal process-automation tool UI
 - 💬 Ask me about: Agentic AI & GenAI, Machine Learning / Deep Learning, large-scale data engineering (ETL & pipelines), and full-stack engineering (MERN, LAMP, MEAN, Django)
 
