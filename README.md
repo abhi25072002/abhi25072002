@@ -56,11 +56,6 @@ I'm a Computer Science grad student at Georgia Tech who loves building things wh
 ### GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhi25072002&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi25072002&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi25072002&hide_border=true" />
 </p>
 
