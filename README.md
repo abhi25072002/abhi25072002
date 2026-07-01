@@ -56,7 +56,7 @@ I'm a Computer Science grad student at Georgia Tech who loves building things wh
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi25072002&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=abhi25072002&hide_border=true" />
 </p>
 
 ---
