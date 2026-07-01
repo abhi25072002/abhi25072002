@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dharmadhikari</h1>
-<h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · ex-SWE @ Wells Fargo · ML Research @ MIDAS Lab, IIIT Delhi</h3>
+<h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · previously Wells Fargo & Citi</h3>
 
 <p align="center">
 <a href="https://abhi25072002.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
