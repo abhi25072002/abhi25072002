@@ -2,6 +2,10 @@
 <h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · prev · Wells Fargo, Citi</h3>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhi25072002&label=Profile%20views&color=2bbc8a&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
 <a href="https://abhi25072002.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/abhishek-dharmadhikari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ajd6@gatech.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
