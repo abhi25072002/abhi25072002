@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dharmadhikari</h1>
-<h3 align="center">Data @ Intuit (Mailchimp) · MS CS @ Georgia Tech · prev · Wells Fargo, Citi</h3>
+<h3 align="center">Tesla  · Intuit (Mailchimp) · MS CS @ Georgia Tech · prev · Wells Fargo, Citi</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abhi25072002&label=Profile%20views&color=2bbc8a&style=flat" alt="profile views" />
@@ -16,9 +16,9 @@
 <a href="https://scholar.google.com/citations?user=iyv1BAEAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 💻 Working on <b>Intuit's core data products</b> (Mailchimp) &nbsp;•&nbsp; 🌱 Exploring <b>Agentic AI</b>: LangChain, LangGraph, RAG & GenAI
-</p>
+</p> -->
 
 ---
 
